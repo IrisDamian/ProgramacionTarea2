@@ -1,0 +1,13 @@
+C:\Users\Iris Damian\Desktop\Visual Estudio\Ejercicio No. 6\Ejercicio No. 6\bin\Debug\netcoreapp3.1\Ejercicio No. 6.exe
+C:\Users\Iris Damian\Desktop\Visual Estudio\Ejercicio No. 6\Ejercicio No. 6\bin\Debug\netcoreapp3.1\Ejercicio No. 6.deps.json
+C:\Users\Iris Damian\Desktop\Visual Estudio\Ejercicio No. 6\Ejercicio No. 6\bin\Debug\netcoreapp3.1\Ejercicio No. 6.runtimeconfig.json
+C:\Users\Iris Damian\Desktop\Visual Estudio\Ejercicio No. 6\Ejercicio No. 6\bin\Debug\netcoreapp3.1\Ejercicio No. 6.runtimeconfig.dev.json
+C:\Users\Iris Damian\Desktop\Visual Estudio\Ejercicio No. 6\Ejercicio No. 6\bin\Debug\netcoreapp3.1\Ejercicio No. 6.dll
+C:\Users\Iris Damian\Desktop\Visual Estudio\Ejercicio No. 6\Ejercicio No. 6\bin\Debug\netcoreapp3.1\Ejercicio No. 6.pdb
+C:\Users\Iris Damian\Desktop\Visual Estudio\Ejercicio No. 6\Ejercicio No. 6\obj\Debug\netcoreapp3.1\Ejercicio No. 6.csprojAssemblyReference.cache
+C:\Users\Iris Damian\Desktop\Visual Estudio\Ejercicio No. 6\Ejercicio No. 6\obj\Debug\netcoreapp3.1\Ejercicio No. 6.AssemblyInfoInputs.cache
+C:\Users\Iris Damian\Desktop\Visual Estudio\Ejercicio No. 6\Ejercicio No. 6\obj\Debug\netcoreapp3.1\Ejercicio No. 6.AssemblyInfo.cs
+C:\Users\Iris Damian\Desktop\Visual Estudio\Ejercicio No. 6\Ejercicio No. 6\obj\Debug\netcoreapp3.1\Ejercicio No. 6.csproj.CoreCompileInputs.cache
+C:\Users\Iris Damian\Desktop\Visual Estudio\Ejercicio No. 6\Ejercicio No. 6\obj\Debug\netcoreapp3.1\Ejercicio No. 6.dll
+C:\Users\Iris Damian\Desktop\Visual Estudio\Ejercicio No. 6\Ejercicio No. 6\obj\Debug\netcoreapp3.1\Ejercicio No. 6.pdb
+C:\Users\Iris Damian\Desktop\Visual Estudio\Ejercicio No. 6\Ejercicio No. 6\obj\Debug\netcoreapp3.1\Ejercicio No. 6.genruntimeconfig.cache
