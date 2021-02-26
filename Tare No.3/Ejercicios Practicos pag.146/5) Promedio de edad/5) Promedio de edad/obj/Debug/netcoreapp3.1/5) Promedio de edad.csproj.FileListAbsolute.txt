@@ -1,0 +1,13 @@
+C:\Users\Iris Damian\Desktop\Ejercicios Practicos pag.146\5) Promedio de edad\5) Promedio de edad\bin\Debug\netcoreapp3.1\5) Promedio de edad.exe
+C:\Users\Iris Damian\Desktop\Ejercicios Practicos pag.146\5) Promedio de edad\5) Promedio de edad\bin\Debug\netcoreapp3.1\5) Promedio de edad.deps.json
+C:\Users\Iris Damian\Desktop\Ejercicios Practicos pag.146\5) Promedio de edad\5) Promedio de edad\bin\Debug\netcoreapp3.1\5) Promedio de edad.runtimeconfig.json
+C:\Users\Iris Damian\Desktop\Ejercicios Practicos pag.146\5) Promedio de edad\5) Promedio de edad\bin\Debug\netcoreapp3.1\5) Promedio de edad.runtimeconfig.dev.json
+C:\Users\Iris Damian\Desktop\Ejercicios Practicos pag.146\5) Promedio de edad\5) Promedio de edad\bin\Debug\netcoreapp3.1\5) Promedio de edad.dll
+C:\Users\Iris Damian\Desktop\Ejercicios Practicos pag.146\5) Promedio de edad\5) Promedio de edad\bin\Debug\netcoreapp3.1\5) Promedio de edad.pdb
+C:\Users\Iris Damian\Desktop\Ejercicios Practicos pag.146\5) Promedio de edad\5) Promedio de edad\obj\Debug\netcoreapp3.1\5) Promedio de edad.csprojAssemblyReference.cache
+C:\Users\Iris Damian\Desktop\Ejercicios Practicos pag.146\5) Promedio de edad\5) Promedio de edad\obj\Debug\netcoreapp3.1\5) Promedio de edad.AssemblyInfoInputs.cache
+C:\Users\Iris Damian\Desktop\Ejercicios Practicos pag.146\5) Promedio de edad\5) Promedio de edad\obj\Debug\netcoreapp3.1\5) Promedio de edad.AssemblyInfo.cs
+C:\Users\Iris Damian\Desktop\Ejercicios Practicos pag.146\5) Promedio de edad\5) Promedio de edad\obj\Debug\netcoreapp3.1\5) Promedio de edad.csproj.CoreCompileInputs.cache
+C:\Users\Iris Damian\Desktop\Ejercicios Practicos pag.146\5) Promedio de edad\5) Promedio de edad\obj\Debug\netcoreapp3.1\5) Promedio de edad.dll
+C:\Users\Iris Damian\Desktop\Ejercicios Practicos pag.146\5) Promedio de edad\5) Promedio de edad\obj\Debug\netcoreapp3.1\5) Promedio de edad.pdb
+C:\Users\Iris Damian\Desktop\Ejercicios Practicos pag.146\5) Promedio de edad\5) Promedio de edad\obj\Debug\netcoreapp3.1\5) Promedio de edad.genruntimeconfig.cache

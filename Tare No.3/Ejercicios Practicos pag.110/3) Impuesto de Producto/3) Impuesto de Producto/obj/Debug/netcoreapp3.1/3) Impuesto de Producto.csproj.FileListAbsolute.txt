@@ -1,0 +1,13 @@
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\3) Impuesto de Producto\3) Impuesto de Producto\bin\Debug\netcoreapp3.1\3) Impuesto de Producto.exe
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\3) Impuesto de Producto\3) Impuesto de Producto\bin\Debug\netcoreapp3.1\3) Impuesto de Producto.deps.json
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\3) Impuesto de Producto\3) Impuesto de Producto\bin\Debug\netcoreapp3.1\3) Impuesto de Producto.runtimeconfig.json
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\3) Impuesto de Producto\3) Impuesto de Producto\bin\Debug\netcoreapp3.1\3) Impuesto de Producto.runtimeconfig.dev.json
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\3) Impuesto de Producto\3) Impuesto de Producto\bin\Debug\netcoreapp3.1\3) Impuesto de Producto.dll
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\3) Impuesto de Producto\3) Impuesto de Producto\bin\Debug\netcoreapp3.1\3) Impuesto de Producto.pdb
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\3) Impuesto de Producto\3) Impuesto de Producto\obj\Debug\netcoreapp3.1\3) Impuesto de Producto.csprojAssemblyReference.cache
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\3) Impuesto de Producto\3) Impuesto de Producto\obj\Debug\netcoreapp3.1\3) Impuesto de Producto.AssemblyInfoInputs.cache
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\3) Impuesto de Producto\3) Impuesto de Producto\obj\Debug\netcoreapp3.1\3) Impuesto de Producto.AssemblyInfo.cs
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\3) Impuesto de Producto\3) Impuesto de Producto\obj\Debug\netcoreapp3.1\3) Impuesto de Producto.csproj.CoreCompileInputs.cache
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\3) Impuesto de Producto\3) Impuesto de Producto\obj\Debug\netcoreapp3.1\3) Impuesto de Producto.dll
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\3) Impuesto de Producto\3) Impuesto de Producto\obj\Debug\netcoreapp3.1\3) Impuesto de Producto.pdb
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\3) Impuesto de Producto\3) Impuesto de Producto\obj\Debug\netcoreapp3.1\3) Impuesto de Producto.genruntimeconfig.cache

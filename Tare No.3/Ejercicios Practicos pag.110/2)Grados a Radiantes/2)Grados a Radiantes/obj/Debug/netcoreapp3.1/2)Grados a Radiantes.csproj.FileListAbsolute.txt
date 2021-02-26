@@ -1,0 +1,13 @@
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\2)Grados a Radiantes\2)Grados a Radiantes\bin\Debug\netcoreapp3.1\2)Grados a Radiantes.exe
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\2)Grados a Radiantes\2)Grados a Radiantes\bin\Debug\netcoreapp3.1\2)Grados a Radiantes.deps.json
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\2)Grados a Radiantes\2)Grados a Radiantes\bin\Debug\netcoreapp3.1\2)Grados a Radiantes.runtimeconfig.json
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\2)Grados a Radiantes\2)Grados a Radiantes\bin\Debug\netcoreapp3.1\2)Grados a Radiantes.runtimeconfig.dev.json
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\2)Grados a Radiantes\2)Grados a Radiantes\bin\Debug\netcoreapp3.1\2)Grados a Radiantes.dll
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\2)Grados a Radiantes\2)Grados a Radiantes\bin\Debug\netcoreapp3.1\2)Grados a Radiantes.pdb
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\2)Grados a Radiantes\2)Grados a Radiantes\obj\Debug\netcoreapp3.1\2)Grados a Radiantes.csprojAssemblyReference.cache
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\2)Grados a Radiantes\2)Grados a Radiantes\obj\Debug\netcoreapp3.1\2)Grados a Radiantes.AssemblyInfoInputs.cache
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\2)Grados a Radiantes\2)Grados a Radiantes\obj\Debug\netcoreapp3.1\2)Grados a Radiantes.AssemblyInfo.cs
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\2)Grados a Radiantes\2)Grados a Radiantes\obj\Debug\netcoreapp3.1\2)Grados a Radiantes.csproj.CoreCompileInputs.cache
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\2)Grados a Radiantes\2)Grados a Radiantes\obj\Debug\netcoreapp3.1\2)Grados a Radiantes.dll
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\2)Grados a Radiantes\2)Grados a Radiantes\obj\Debug\netcoreapp3.1\2)Grados a Radiantes.pdb
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\2)Grados a Radiantes\2)Grados a Radiantes\obj\Debug\netcoreapp3.1\2)Grados a Radiantes.genruntimeconfig.cache

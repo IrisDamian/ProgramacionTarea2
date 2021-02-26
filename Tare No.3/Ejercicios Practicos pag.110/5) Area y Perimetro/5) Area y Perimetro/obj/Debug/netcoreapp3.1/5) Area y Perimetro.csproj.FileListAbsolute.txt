@@ -1,0 +1,13 @@
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\5) Area y Perimetro\5) Area y Perimetro\bin\Debug\netcoreapp3.1\5) Area y Perimetro.exe
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\5) Area y Perimetro\5) Area y Perimetro\bin\Debug\netcoreapp3.1\5) Area y Perimetro.deps.json
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\5) Area y Perimetro\5) Area y Perimetro\bin\Debug\netcoreapp3.1\5) Area y Perimetro.runtimeconfig.json
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\5) Area y Perimetro\5) Area y Perimetro\bin\Debug\netcoreapp3.1\5) Area y Perimetro.runtimeconfig.dev.json
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\5) Area y Perimetro\5) Area y Perimetro\bin\Debug\netcoreapp3.1\5) Area y Perimetro.dll
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\5) Area y Perimetro\5) Area y Perimetro\bin\Debug\netcoreapp3.1\5) Area y Perimetro.pdb
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\5) Area y Perimetro\5) Area y Perimetro\obj\Debug\netcoreapp3.1\5) Area y Perimetro.csprojAssemblyReference.cache
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\5) Area y Perimetro\5) Area y Perimetro\obj\Debug\netcoreapp3.1\5) Area y Perimetro.AssemblyInfoInputs.cache
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\5) Area y Perimetro\5) Area y Perimetro\obj\Debug\netcoreapp3.1\5) Area y Perimetro.AssemblyInfo.cs
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\5) Area y Perimetro\5) Area y Perimetro\obj\Debug\netcoreapp3.1\5) Area y Perimetro.csproj.CoreCompileInputs.cache
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\5) Area y Perimetro\5) Area y Perimetro\obj\Debug\netcoreapp3.1\5) Area y Perimetro.dll
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\5) Area y Perimetro\5) Area y Perimetro\obj\Debug\netcoreapp3.1\5) Area y Perimetro.pdb
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\5) Area y Perimetro\5) Area y Perimetro\obj\Debug\netcoreapp3.1\5) Area y Perimetro.genruntimeconfig.cache

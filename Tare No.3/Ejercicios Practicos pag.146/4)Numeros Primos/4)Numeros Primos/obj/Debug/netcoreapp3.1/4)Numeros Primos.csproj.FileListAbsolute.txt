@@ -1,0 +1,13 @@
+C:\Users\Iris Damian\Desktop\Ejercicios Practicos pag.146\4)Numeros Primos\4)Numeros Primos\bin\Debug\netcoreapp3.1\4)Numeros Primos.exe
+C:\Users\Iris Damian\Desktop\Ejercicios Practicos pag.146\4)Numeros Primos\4)Numeros Primos\bin\Debug\netcoreapp3.1\4)Numeros Primos.deps.json
+C:\Users\Iris Damian\Desktop\Ejercicios Practicos pag.146\4)Numeros Primos\4)Numeros Primos\bin\Debug\netcoreapp3.1\4)Numeros Primos.runtimeconfig.json
+C:\Users\Iris Damian\Desktop\Ejercicios Practicos pag.146\4)Numeros Primos\4)Numeros Primos\bin\Debug\netcoreapp3.1\4)Numeros Primos.runtimeconfig.dev.json
+C:\Users\Iris Damian\Desktop\Ejercicios Practicos pag.146\4)Numeros Primos\4)Numeros Primos\bin\Debug\netcoreapp3.1\4)Numeros Primos.dll
+C:\Users\Iris Damian\Desktop\Ejercicios Practicos pag.146\4)Numeros Primos\4)Numeros Primos\bin\Debug\netcoreapp3.1\4)Numeros Primos.pdb
+C:\Users\Iris Damian\Desktop\Ejercicios Practicos pag.146\4)Numeros Primos\4)Numeros Primos\obj\Debug\netcoreapp3.1\4)Numeros Primos.csprojAssemblyReference.cache
+C:\Users\Iris Damian\Desktop\Ejercicios Practicos pag.146\4)Numeros Primos\4)Numeros Primos\obj\Debug\netcoreapp3.1\4)Numeros Primos.AssemblyInfoInputs.cache
+C:\Users\Iris Damian\Desktop\Ejercicios Practicos pag.146\4)Numeros Primos\4)Numeros Primos\obj\Debug\netcoreapp3.1\4)Numeros Primos.AssemblyInfo.cs
+C:\Users\Iris Damian\Desktop\Ejercicios Practicos pag.146\4)Numeros Primos\4)Numeros Primos\obj\Debug\netcoreapp3.1\4)Numeros Primos.csproj.CoreCompileInputs.cache
+C:\Users\Iris Damian\Desktop\Ejercicios Practicos pag.146\4)Numeros Primos\4)Numeros Primos\obj\Debug\netcoreapp3.1\4)Numeros Primos.dll
+C:\Users\Iris Damian\Desktop\Ejercicios Practicos pag.146\4)Numeros Primos\4)Numeros Primos\obj\Debug\netcoreapp3.1\4)Numeros Primos.pdb
+C:\Users\Iris Damian\Desktop\Ejercicios Practicos pag.146\4)Numeros Primos\4)Numeros Primos\obj\Debug\netcoreapp3.1\4)Numeros Primos.genruntimeconfig.cache

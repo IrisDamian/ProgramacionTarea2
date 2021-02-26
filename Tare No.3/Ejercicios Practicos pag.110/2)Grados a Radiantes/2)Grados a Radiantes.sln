@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2)Grados a Radiantes", "2)Grados a Radiantes\2)Grados a Radiantes.csproj", "{9AD42820-1030-4F6F-9938-8BE47E86D110}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AD42820-1030-4F6F-9938-8BE47E86D110}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AD42820-1030-4F6F-9938-8BE47E86D110}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AD42820-1030-4F6F-9938-8BE47E86D110}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AD42820-1030-4F6F-9938-8BE47E86D110}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C19D798-43D5-43E1-9D03-7C0CF5B5F55D}
+	EndGlobalSection
+EndGlobal

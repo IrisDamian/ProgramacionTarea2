@@ -1,0 +1,13 @@
+C:\Users\Iris Damian\Desktop\Ejercicios Practicos pag.146\1) Tabla de Multiplicar\1) Tabla de Multiplicar\bin\Debug\netcoreapp3.1\1) Tabla de Multiplicar.exe
+C:\Users\Iris Damian\Desktop\Ejercicios Practicos pag.146\1) Tabla de Multiplicar\1) Tabla de Multiplicar\bin\Debug\netcoreapp3.1\1) Tabla de Multiplicar.deps.json
+C:\Users\Iris Damian\Desktop\Ejercicios Practicos pag.146\1) Tabla de Multiplicar\1) Tabla de Multiplicar\bin\Debug\netcoreapp3.1\1) Tabla de Multiplicar.runtimeconfig.json
+C:\Users\Iris Damian\Desktop\Ejercicios Practicos pag.146\1) Tabla de Multiplicar\1) Tabla de Multiplicar\bin\Debug\netcoreapp3.1\1) Tabla de Multiplicar.runtimeconfig.dev.json
+C:\Users\Iris Damian\Desktop\Ejercicios Practicos pag.146\1) Tabla de Multiplicar\1) Tabla de Multiplicar\bin\Debug\netcoreapp3.1\1) Tabla de Multiplicar.dll
+C:\Users\Iris Damian\Desktop\Ejercicios Practicos pag.146\1) Tabla de Multiplicar\1) Tabla de Multiplicar\bin\Debug\netcoreapp3.1\1) Tabla de Multiplicar.pdb
+C:\Users\Iris Damian\Desktop\Ejercicios Practicos pag.146\1) Tabla de Multiplicar\1) Tabla de Multiplicar\obj\Debug\netcoreapp3.1\1) Tabla de Multiplicar.csprojAssemblyReference.cache
+C:\Users\Iris Damian\Desktop\Ejercicios Practicos pag.146\1) Tabla de Multiplicar\1) Tabla de Multiplicar\obj\Debug\netcoreapp3.1\1) Tabla de Multiplicar.AssemblyInfoInputs.cache
+C:\Users\Iris Damian\Desktop\Ejercicios Practicos pag.146\1) Tabla de Multiplicar\1) Tabla de Multiplicar\obj\Debug\netcoreapp3.1\1) Tabla de Multiplicar.AssemblyInfo.cs
+C:\Users\Iris Damian\Desktop\Ejercicios Practicos pag.146\1) Tabla de Multiplicar\1) Tabla de Multiplicar\obj\Debug\netcoreapp3.1\1) Tabla de Multiplicar.csproj.CoreCompileInputs.cache
+C:\Users\Iris Damian\Desktop\Ejercicios Practicos pag.146\1) Tabla de Multiplicar\1) Tabla de Multiplicar\obj\Debug\netcoreapp3.1\1) Tabla de Multiplicar.dll
+C:\Users\Iris Damian\Desktop\Ejercicios Practicos pag.146\1) Tabla de Multiplicar\1) Tabla de Multiplicar\obj\Debug\netcoreapp3.1\1) Tabla de Multiplicar.pdb
+C:\Users\Iris Damian\Desktop\Ejercicios Practicos pag.146\1) Tabla de Multiplicar\1) Tabla de Multiplicar\obj\Debug\netcoreapp3.1\1) Tabla de Multiplicar.genruntimeconfig.cache

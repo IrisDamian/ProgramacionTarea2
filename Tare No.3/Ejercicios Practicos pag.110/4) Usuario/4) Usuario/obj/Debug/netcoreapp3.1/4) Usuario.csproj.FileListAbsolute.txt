@@ -1,0 +1,13 @@
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\4) Usuario\4) Usuario\obj\Debug\netcoreapp3.1\4) Usuario.csprojAssemblyReference.cache
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\4) Usuario\4) Usuario\obj\Debug\netcoreapp3.1\4) Usuario.AssemblyInfoInputs.cache
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\4) Usuario\4) Usuario\obj\Debug\netcoreapp3.1\4) Usuario.AssemblyInfo.cs
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\4) Usuario\4) Usuario\obj\Debug\netcoreapp3.1\4) Usuario.csproj.CoreCompileInputs.cache
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\4) Usuario\4) Usuario\bin\Debug\netcoreapp3.1\4) Usuario.exe
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\4) Usuario\4) Usuario\bin\Debug\netcoreapp3.1\4) Usuario.deps.json
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\4) Usuario\4) Usuario\bin\Debug\netcoreapp3.1\4) Usuario.runtimeconfig.json
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\4) Usuario\4) Usuario\bin\Debug\netcoreapp3.1\4) Usuario.runtimeconfig.dev.json
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\4) Usuario\4) Usuario\bin\Debug\netcoreapp3.1\4) Usuario.dll
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\4) Usuario\4) Usuario\bin\Debug\netcoreapp3.1\4) Usuario.pdb
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\4) Usuario\4) Usuario\obj\Debug\netcoreapp3.1\4) Usuario.dll
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\4) Usuario\4) Usuario\obj\Debug\netcoreapp3.1\4) Usuario.pdb
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\4) Usuario\4) Usuario\obj\Debug\netcoreapp3.1\4) Usuario.genruntimeconfig.cache

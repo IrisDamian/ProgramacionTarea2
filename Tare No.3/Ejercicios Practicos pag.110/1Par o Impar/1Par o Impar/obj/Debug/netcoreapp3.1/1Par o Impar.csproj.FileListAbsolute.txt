@@ -1,0 +1,13 @@
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\1Par o Impar\1Par o Impar\bin\Debug\netcoreapp3.1\1Par o Impar.exe
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\1Par o Impar\1Par o Impar\bin\Debug\netcoreapp3.1\1Par o Impar.deps.json
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\1Par o Impar\1Par o Impar\bin\Debug\netcoreapp3.1\1Par o Impar.runtimeconfig.json
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\1Par o Impar\1Par o Impar\bin\Debug\netcoreapp3.1\1Par o Impar.runtimeconfig.dev.json
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\1Par o Impar\1Par o Impar\bin\Debug\netcoreapp3.1\1Par o Impar.dll
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\1Par o Impar\1Par o Impar\bin\Debug\netcoreapp3.1\1Par o Impar.pdb
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\1Par o Impar\1Par o Impar\obj\Debug\netcoreapp3.1\1Par o Impar.csprojAssemblyReference.cache
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\1Par o Impar\1Par o Impar\obj\Debug\netcoreapp3.1\1Par o Impar.AssemblyInfoInputs.cache
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\1Par o Impar\1Par o Impar\obj\Debug\netcoreapp3.1\1Par o Impar.AssemblyInfo.cs
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\1Par o Impar\1Par o Impar\obj\Debug\netcoreapp3.1\1Par o Impar.csproj.CoreCompileInputs.cache
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\1Par o Impar\1Par o Impar\obj\Debug\netcoreapp3.1\1Par o Impar.dll
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\1Par o Impar\1Par o Impar\obj\Debug\netcoreapp3.1\1Par o Impar.pdb
+C:\Users\Iris Damian\Desktop\Ejercicio Practica\1Par o Impar\1Par o Impar\obj\Debug\netcoreapp3.1\1Par o Impar.genruntimeconfig.cache

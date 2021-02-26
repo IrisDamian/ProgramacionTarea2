@@ -1,0 +1,13 @@
+C:\Users\Iris Damian\Desktop\Ejercicios Practicos pag.146\2)Numero Elevado\2)Numero Elevado\bin\Debug\netcoreapp3.1\2)Numero Elevado.exe
+C:\Users\Iris Damian\Desktop\Ejercicios Practicos pag.146\2)Numero Elevado\2)Numero Elevado\bin\Debug\netcoreapp3.1\2)Numero Elevado.deps.json
+C:\Users\Iris Damian\Desktop\Ejercicios Practicos pag.146\2)Numero Elevado\2)Numero Elevado\bin\Debug\netcoreapp3.1\2)Numero Elevado.runtimeconfig.json
+C:\Users\Iris Damian\Desktop\Ejercicios Practicos pag.146\2)Numero Elevado\2)Numero Elevado\bin\Debug\netcoreapp3.1\2)Numero Elevado.runtimeconfig.dev.json
+C:\Users\Iris Damian\Desktop\Ejercicios Practicos pag.146\2)Numero Elevado\2)Numero Elevado\bin\Debug\netcoreapp3.1\2)Numero Elevado.dll
+C:\Users\Iris Damian\Desktop\Ejercicios Practicos pag.146\2)Numero Elevado\2)Numero Elevado\bin\Debug\netcoreapp3.1\2)Numero Elevado.pdb
+C:\Users\Iris Damian\Desktop\Ejercicios Practicos pag.146\2)Numero Elevado\2)Numero Elevado\obj\Debug\netcoreapp3.1\2)Numero Elevado.csprojAssemblyReference.cache
+C:\Users\Iris Damian\Desktop\Ejercicios Practicos pag.146\2)Numero Elevado\2)Numero Elevado\obj\Debug\netcoreapp3.1\2)Numero Elevado.AssemblyInfoInputs.cache
+C:\Users\Iris Damian\Desktop\Ejercicios Practicos pag.146\2)Numero Elevado\2)Numero Elevado\obj\Debug\netcoreapp3.1\2)Numero Elevado.AssemblyInfo.cs
+C:\Users\Iris Damian\Desktop\Ejercicios Practicos pag.146\2)Numero Elevado\2)Numero Elevado\obj\Debug\netcoreapp3.1\2)Numero Elevado.csproj.CoreCompileInputs.cache
+C:\Users\Iris Damian\Desktop\Ejercicios Practicos pag.146\2)Numero Elevado\2)Numero Elevado\obj\Debug\netcoreapp3.1\2)Numero Elevado.dll
+C:\Users\Iris Damian\Desktop\Ejercicios Practicos pag.146\2)Numero Elevado\2)Numero Elevado\obj\Debug\netcoreapp3.1\2)Numero Elevado.pdb
+C:\Users\Iris Damian\Desktop\Ejercicios Practicos pag.146\2)Numero Elevado\2)Numero Elevado\obj\Debug\netcoreapp3.1\2)Numero Elevado.genruntimeconfig.cache
