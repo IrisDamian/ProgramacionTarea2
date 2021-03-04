@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Examen_Parcial.MainPage">
+
+    <StackLayout>
+        <Label Text="Juegos de Adivinanza" HorizontalOptions="Center" Background="black" TextColor="pink" FontSize="35"></Label>
+        <Button Text="Adivina el numero" Background="yellow" Clicked="Button_Clicked"></Button>
+        <Button Text="Adivina la fecha" Background="lime" Clicked="Button_Clicked_1"></Button>
+        
+              
+    </StackLayout>
+
+</ContentPage>

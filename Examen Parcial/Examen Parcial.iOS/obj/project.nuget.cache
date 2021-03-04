@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vwzLSOXidZp+LBH7QPEppxjBqGkT5UCLBX1IjYuO7cn+HQmNfxSpIY87GhfWzJPPvv7OgS1MBDhtuYaAgV5o5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Iris Damian\\Desktop\\Examen Parcial\\Examen Parcial.iOS\\Examen Parcial.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}

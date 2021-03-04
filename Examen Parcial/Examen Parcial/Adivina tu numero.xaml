@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Examen_Parcial.Adivina_tu_numero">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Imaginate el numero que deseas"></Label>
+            <Label Text="El mismo numero multiplicalo por 2 "></Label>
+            <Label Text="Luego sumale  8"></Label>
+            <Label Text="Ahora multiplica el resultado por 5"></Label>
+            <Label Text="Listo ¿Cual fue tu resultado?"></Label>
+            <Entry Placeholder="Resultado" x:Name="numero" HorizontalOptions="Center"></Entry>
+            <Button Text="Resultado" Background="violet" Clicked="Button_Clicked"></Button>
+            
+        </StackLayout> 
+    </ContentPage.Content>
+</ContentPage>

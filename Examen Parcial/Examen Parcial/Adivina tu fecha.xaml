@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Examen_Parcial.Adivina_tu_fecha">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Piensa en el dia que tu nacimiento"></Label>
+            <Label Text="Ahora ese dia multiplicalo por 20 "></Label>
+            <Label Text="Luego sumarle 73 "></Label>
+            <Label Text="El resultado multiplicalo por 5"></Label>
+            <Label Text="Luego sumale la fecha del mes de tu cumpleaños"></Label>
+            <Label Text="¿Cual fue tu resultado?"></Label>
+            <Entry Placeholder="Resultado" x:Name="resultado" HorizontalOptions="Center"></Entry>
+            <Button Text="Resultado" Background="red" Clicked="Button_Clicked"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

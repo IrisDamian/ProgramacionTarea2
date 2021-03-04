@@ -1,0 +1,16 @@
+C:\Users\Iris Damian\Desktop\Examen Parcial\Examen Parcial\bin\Debug\netstandard2.0\Examen Parcial.deps.json
+C:\Users\Iris Damian\Desktop\Examen Parcial\Examen Parcial\bin\Debug\netstandard2.0\Examen Parcial.dll
+C:\Users\Iris Damian\Desktop\Examen Parcial\Examen Parcial\bin\Debug\netstandard2.0\ref\Examen Parcial.dll
+C:\Users\Iris Damian\Desktop\Examen Parcial\Examen Parcial\bin\Debug\netstandard2.0\Examen Parcial.pdb
+C:\Users\Iris Damian\Desktop\Examen Parcial\Examen Parcial\obj\Debug\netstandard2.0\Examen Parcial.csprojAssemblyReference.cache
+C:\Users\Iris Damian\Desktop\Examen Parcial\Examen Parcial\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Iris Damian\Desktop\Examen Parcial\Examen Parcial\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Iris Damian\Desktop\Examen Parcial\Examen Parcial\obj\Debug\netstandard2.0\Examen Parcial.AssemblyInfoInputs.cache
+C:\Users\Iris Damian\Desktop\Examen Parcial\Examen Parcial\obj\Debug\netstandard2.0\Examen Parcial.AssemblyInfo.cs
+C:\Users\Iris Damian\Desktop\Examen Parcial\Examen Parcial\obj\Debug\netstandard2.0\Examen Parcial.csproj.CoreCompileInputs.cache
+C:\Users\Iris Damian\Desktop\Examen Parcial\Examen Parcial\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Iris Damian\Desktop\Examen Parcial\Examen Parcial\obj\Debug\netstandard2.0\Examen Parcial.dll
+C:\Users\Iris Damian\Desktop\Examen Parcial\Examen Parcial\obj\Debug\netstandard2.0\ref\Examen Parcial.dll
+C:\Users\Iris Damian\Desktop\Examen Parcial\Examen Parcial\obj\Debug\netstandard2.0\Examen Parcial.pdb
+C:\Users\Iris Damian\Desktop\Examen Parcial\Examen Parcial\obj\Debug\netstandard2.0\Adivina tu fecha.xaml.g.cs
+C:\Users\Iris Damian\Desktop\Examen Parcial\Examen Parcial\obj\Debug\netstandard2.0\Adivina tu numero.xaml.g.cs
