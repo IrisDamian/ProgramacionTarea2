@@ -1,0 +1,15 @@
+C:\Users\Iris Damian\Desktop\Tarea6\bin\Debug\Tarea6.exe.config
+C:\Users\Iris Damian\Desktop\Tarea6\bin\Debug\Tarea6.exe
+C:\Users\Iris Damian\Desktop\Tarea6\bin\Debug\Tarea6.pdb
+C:\Users\Iris Damian\Desktop\Tarea6\bin\Debug\Interop.WMPLib.dll
+C:\Users\Iris Damian\Desktop\Tarea6\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Iris Damian\Desktop\Tarea6\obj\Debug\Tarea6.csprojAssemblyReference.cache
+C:\Users\Iris Damian\Desktop\Tarea6\obj\Debug\Interop.WMPLib.dll
+C:\Users\Iris Damian\Desktop\Tarea6\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Iris Damian\Desktop\Tarea6\obj\Debug\Tarea6.csproj.ResolveComReference.cache
+C:\Users\Iris Damian\Desktop\Tarea6\obj\Debug\Tarea6.Properties.Resources.resources
+C:\Users\Iris Damian\Desktop\Tarea6\obj\Debug\Tarea6.csproj.GenerateResource.cache
+C:\Users\Iris Damian\Desktop\Tarea6\obj\Debug\Tarea6.csproj.CoreCompileInputs.cache
+C:\Users\Iris Damian\Desktop\Tarea6\obj\Debug\Tarea6.exe
+C:\Users\Iris Damian\Desktop\Tarea6\obj\Debug\Tarea6.pdb
+C:\Users\Iris Damian\Desktop\Tarea6\obj\Debug\Tarea6.Carro.resources
