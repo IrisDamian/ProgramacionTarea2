@@ -1,0 +1,10 @@
+C:\Users\Iris Damian\Desktop\TareaDatos\bin\Debug\TareaDatos.exe.config
+C:\Users\Iris Damian\Desktop\TareaDatos\bin\Debug\TareaDatos.exe
+C:\Users\Iris Damian\Desktop\TareaDatos\bin\Debug\TareaDatos.pdb
+C:\Users\Iris Damian\Desktop\TareaDatos\obj\Debug\TareaDatos.csprojAssemblyReference.cache
+C:\Users\Iris Damian\Desktop\TareaDatos\obj\Debug\TareaDatos.Form1.resources
+C:\Users\Iris Damian\Desktop\TareaDatos\obj\Debug\TareaDatos.Properties.Resources.resources
+C:\Users\Iris Damian\Desktop\TareaDatos\obj\Debug\TareaDatos.csproj.GenerateResource.cache
+C:\Users\Iris Damian\Desktop\TareaDatos\obj\Debug\TareaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Iris Damian\Desktop\TareaDatos\obj\Debug\TareaDatos.exe
+C:\Users\Iris Damian\Desktop\TareaDatos\obj\Debug\TareaDatos.pdb
