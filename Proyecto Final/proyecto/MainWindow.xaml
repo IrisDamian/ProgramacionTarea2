@@ -1,0 +1,55 @@
+﻿<Window x:Class="proyecto.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:proyecto"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="1008" Width="1454">
+    <Grid RenderTransformOrigin="0.5,0.5" Margin="0,-2,-447,-98" Background="{DynamicResource {x:Static SystemColors.GradientActiveCaptionBrushKey}}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="263*"/>
+            <ColumnDefinition Width="39*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RenderTransform>
+            <TransformGroup>
+                <ScaleTransform/>
+                <SkewTransform/>
+                <RotateTransform Angle="-0.459"/>
+                <TranslateTransform/>
+            </TransformGroup>
+        </Grid.RenderTransform>
+        <Button x:Name="ButtonCargar" Content="Cargar Archivo" HorizontalAlignment="Left" Height="58" Margin="607,14,0,0" VerticalAlignment="Top" Width="151" FontSize="20" Click="ButtonCargar_Click" Background="{DynamicResource {x:Static SystemColors.MenuBarBrushKey}}" FontFamily="Javanese Text" FontWeight="Bold"/>
+        <Button x:Name="ButtonNumero" Content="Buscar por Numero" HorizontalAlignment="Left" Margin="15,40,0,0" VerticalAlignment="Top" Height="69" Width="181" FontSize="20" Click="ButtonNumero_Click" FontFamily="Javanese Text" FontWeight="Bold" Background="{DynamicResource {x:Static SystemColors.HotTrackBrushKey}}"/>
+        <Button x:Name="ButtonMarca" Content="Buscar por Marca" HorizontalAlignment="Left" Height="64" Margin="17,121,0,0" VerticalAlignment="Top" Width="175" FontSize="20" Click="ButtonMarca_Click" Background="{DynamicResource {x:Static SystemColors.HotTrackBrushKey}}" BorderBrush="{DynamicResource {x:Static SystemColors.HighlightBrushKey}}" FontFamily="Javanese Text" FontWeight="Bold"/>
+        <TextBox x:Name="TextBox1" HorizontalAlignment="Left" Height="47" Margin="212,59,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="145" FontSize="18"/>
+        <TextBox x:Name="TextBox2" HorizontalAlignment="Left" Height="50" Margin="385,135,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="195" FontSize="18"/>
+        <TextBox x:Name="TextBox3" HorizontalAlignment="Left" Height="49" Margin="209,132,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="142" FontSize="18"/>
+        <Button x:Name="ButtonModelo" Content="Buscar por Modelo" HorizontalAlignment="Left" Height="70" Margin="17,197,0,0" VerticalAlignment="Top" Width="175" FontSize="20" Click="ButtonModelo_Click" Background="{DynamicResource {x:Static SystemColors.HotTrackBrushKey}}" FontFamily="Javanese Text" FontWeight="Bold"/>
+        <TextBox x:Name="TextBox5" HorizontalAlignment="Left" Height="45" Margin="210,214,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="146" FontSize="18"/>
+        <TextBox x:Name="TextBox7" HorizontalAlignment="Left" Height="47" Margin="995,59,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="135" FontSize="18" RenderTransformOrigin="0.411,0.389"/>
+        <TextBox x:Name="TextBox8" HorizontalAlignment="Left" Height="50" Margin="1144,131,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="195" FontSize="18"/>
+        <TextBox x:Name="TextBox9" HorizontalAlignment="Left" Height="49" Margin="989,130,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="140" FontSize="18"/>
+        <TextBox x:Name="TextBox11" HorizontalAlignment="Left" Height="45" Margin="994,209,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="146" FontSize="18"/>
+        <Button x:Name="ButtonNumero2" Content="Buscar por Numero" HorizontalAlignment="Left" Height="65" Margin="800,44,0,0" VerticalAlignment="Top" Width="182" FontSize="20" Click="ButtonNumero2_Click" Background="{DynamicResource {x:Static SystemColors.HotTrackBrushKey}}" FontFamily="Javanese Text" FontWeight="Bold"/>
+        <Button x:Name="ButtonMarca2" Content="Buscar por Marca" HorizontalAlignment="Left" Height="59" Margin="800,127,0,0" VerticalAlignment="Top" Width="173" FontSize="20" Click="ButtonMarca2_Click" FontFamily="Javanese Text" FontWeight="Bold" Background="{DynamicResource {x:Static SystemColors.HotTrackBrushKey}}"/>
+        <Button x:Name="ButtonModelo2" Content="Buscar por Modelo" HorizontalAlignment="Left" Height="63" Margin="799,199,0,0" VerticalAlignment="Top" Width="179" FontSize="20" Click="ButtonModelo2_Click" Background="{DynamicResource {x:Static SystemColors.HotTrackBrushKey}}" FontFamily="Javanese Text" FontWeight="Bold"/>
+        <Button x:Name="ButtonActualizar" Content="Actualizar" HorizontalAlignment="Left" Height="69" Margin="796,376,0,0" VerticalAlignment="Top" Width="153" FontSize="20" FontFamily="Javanese Text" FontWeight="Bold" Background="{DynamicResource {x:Static SystemColors.HotTrackBrushKey}}" Click="ButtonActualizar_Click"/>
+        <Button x:Name="ButtonBorrar" Content="Borrar" HorizontalAlignment="Left" Height="70" Margin="206,296,0,0" VerticalAlignment="Top" Width="158" Background="{DynamicResource {x:Static SystemColors.HotTrackBrushKey}}" FontSize="20" FontWeight="Bold" FontFamily="Javanese Text" RenderTransformOrigin="0.5,0.5" Click="ButtonBorrar_Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.495"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Button x:Name="ButtonInsertar" Content="Insertar" HorizontalAlignment="Left" Height="68" Margin="206,380,0,0" VerticalAlignment="Top" Width="156" FontFamily="Javanese Text" FontWeight="Bold" FontSize="20" Background="{DynamicResource {x:Static SystemColors.HotTrackBrushKey}}" Click="ButtonInsertar_Click"/>
+        <Button x:Name="ButtonDescargar" Content="Descargar" HorizontalAlignment="Left" Height="68" Margin="799,300,0,0" VerticalAlignment="Top" Width="152" Background="{DynamicResource {x:Static SystemColors.HotTrackBrushKey}}" FontWeight="Bold" FontFamily="Javanese Text" FontSize="20" Click="ButtonDescargar_Click"/>
+        <TextBox x:Name="TextBox12" HorizontalAlignment="Left" Height="56" Margin="467,352,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="268" FontSize="18"/>
+        <Label Content="SQL" HorizontalAlignment="Left" Height="38" Margin="295,7,0,0" VerticalAlignment="Top" Width="44" FontSize="18" FontWeight="Bold" Cursor="Arrow"/>
+        <Label Content="MYSQL" HorizontalAlignment="Left" Height="38" Margin="1072,10,0,0" VerticalAlignment="Top" Width="79" FontSize="18" FontWeight="Bold" Cursor="Arrow"/>
+
+    </Grid>
+</Window>
